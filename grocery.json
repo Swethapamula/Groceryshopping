@@ -1,0 +1,86 @@
+[
+    {
+        "SerNo": "1",    
+        "Name": "Apple",
+        "Quantity":"2kg",
+        "Unit":"1",
+        "Department":"Fruit",
+         "Notes":"FreshFruit"
+    },
+    {
+        "SerNo": "2",    
+        "Name": "Milk",
+        "Quantity": "2lit",
+        "Unit":"2",
+        "Department":"Dairy",
+         "Notes":"Amul Milk Required"
+
+    },
+    {
+        "SerNo": "3",    
+        "Name": "Onion",
+        "Quantity": "5kg",
+        "Unit":"2",
+        "Department":"Vegetables",
+         "Notes":"Required fresh"
+   },
+    {
+        "SerNo": "4",    
+        "Name": "Potato",
+        "Quantity": "3kg",
+        "Unit":"2",
+        "Department":"Vegetables",
+         "Notes":"Required fresh"
+
+    },
+    {
+        "SerNo": "5",    
+        "Name": "Beetroot",
+        "Quantity": "2kg",
+        "Unit":"2",
+        "Department":"Vegetables",
+         "Notes":"Required fresh"
+    },    
+    {
+        "SerNo": "6",    
+        "Name": "Carrots",
+        "Quantity": "2kg",
+        "Unit":"2",
+        "Department":"Vegetables",
+         "Notes":"Required fresh veggies"
+    },
+    {
+        "SerNo": "7",    
+        "Name": "Coconut oil",
+        "Quantity": "2kg",
+        "Unit":"1",
+        "Department":"oil",
+         "Notes":" Needed Parachut Brand"
+    },
+    {
+        "SerNo": "8",    
+        "Name": "Wheatflour",
+        "Quantity": "2kg",
+        "Unit":"2",
+        "Department":"Flour",
+         "Notes":"Required ashirwaad atta"
+    },
+    {
+        "SerNo": "9",    
+        "Name": "Cornflakes",
+        "Quantity": "1",
+        "Unit":"2",
+        "Department":"Snacks",
+         "Notes":"Chaco flakes needed"
+    },
+    
+    {
+        "SerNo": "10",    
+        "Name": "Watermelon",
+        "Quantity": "1kg",
+        "Unit":"1",
+        "Department":"Fruit",
+         "Notes":"FreshFruit"
+    }
+
+]
